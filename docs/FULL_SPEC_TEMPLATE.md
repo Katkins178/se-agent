@@ -16,8 +16,8 @@
 ## 1. Process and plan (Chapters 2 and 3)  Owner: Maimuna
 
 - **Proposed process model:** Incremental development is a good fit because the three Must-do capabilities can be delivered and verified before attempting uncertain retailer integrations. Short feedback cycles will expose browser-storage and price-access limitations early, without requiring the entire wishlist application to be built at once.
-- **Proposed practices (confirm with team):** Short weekly stand-up, task board, three short sprints, code review for merges, automated tests on each change, and a retrospective at the end of each sprint.
-- **Definition of Done (proposed):**
+- **Proposed practices:** Short weekly stand-up, task board, three short sprints, code review for merges, automated tests on each change, and a retrospective at the end of each sprint.
+- **Definition of Done:**
   - [ ] Feature meets its documented acceptance criteria.
   - [ ] Core logic is separated from display code and has passing unit tests.
   - [ ] Feature works in a desktop and mobile browser viewport.
