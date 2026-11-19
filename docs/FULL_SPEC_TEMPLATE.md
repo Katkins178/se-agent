@@ -4,8 +4,6 @@
 
 **Roles:** Product Owner Kendall Atkins | Process lead Maimuna | Architect Buraporn | Quality lead Kendall Van Beveren | Prompt engineer Maimuna
 
-> **Status:** Draft derived from `BRIEF_TEMPLATE.md`. Proposed implementation details are identified as proposals, not decisions already made. Team members must confirm owners, technical choices, and unresolved contradictions before submission.
-
 ---
 
 ## 0. The idea (Chapter 1)
